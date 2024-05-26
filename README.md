@@ -5,7 +5,7 @@ Limits Snapdragon 8 Gen 2 CPU Frequency
 
 execute after 90sec upon boot
 
-Little:0.9024Ghz，Big:1.6512Ghz，Prime:1.7088Ghz
+Little: 0.9024Ghz，Big: 1.6512Ghz，Prime: 1.7088Ghz
 
 ## Why you need this?
 Use this you want to improve your Screen On Time by a margin.
