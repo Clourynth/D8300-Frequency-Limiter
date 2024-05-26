@@ -1,0 +1,6 @@
+id=8GEN2_FREQ_LIMIT
+name=8Gen2 Frequency Limiter
+version=1.0
+versionCode=1
+author=Tatsh
+description=Limits CPU Frequency 90sec after boot.Little:0.9024Ghz，Big:1.6512Ghz，Prime:1.7088Ghz
