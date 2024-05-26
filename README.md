@@ -1,7 +1,9 @@
+# Magisk Module 
+
 # Snapdragon 8Gen2 Frequency Limiter
 Limits Snapdragon 8 Gen 2 CPU Frequency
 
-90sec after boot.
+execute after 90sec upon boot
 
 Little:0.9024Ghz，Big:1.6512Ghz，Prime:1.7088Ghz
 
