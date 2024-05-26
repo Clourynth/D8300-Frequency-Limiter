@@ -1,4 +1,4 @@
-# Magisk Module 
+#Magisk_Module 
 
 # Snapdragon 8Gen2 Frequency Limiter
 Limits Snapdragon 8 Gen 2 CPU Frequency
