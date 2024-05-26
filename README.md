@@ -14,5 +14,7 @@ When swapping apps, CPU frequency will boost to a very high level to maintain th
 
 This module lowers the CPU frequency to the target value after boot, reduces the peak power significantly when swapping apps.
 
+You can also use apps like FKM or EX Manager to change frequency, but this is a magisk autoscript, so it will be much easier.
+
 ## Requirements
 Should be work on 8Gen2 Devices
