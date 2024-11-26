@@ -2,7 +2,7 @@
 
 # Snapdragon 8Gen2 Frequency Limiter
 Limits Snapdragon 8 Gen 2 CPU Frequency\
-execute after 90sec upon boot
+execute after 90sec upon boot (should be long enough for init)
 - Little Cluster: 0.9024Ghz
 - Big Cluster: 1.6512Ghz
 - Prime Cluster: 1.7088Ghz
