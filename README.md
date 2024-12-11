@@ -17,7 +17,7 @@ This module lowers the CPU frequency to the target value after boot, reduces the
 You can also use apps like FKM or EX Manager to change frequency, but this is a magisk autoscript, so it will be much convenient.
 
 ## Requirements
-Should be working on Snapdragon 8Gen2 Devices
+Should be working on all Snapdragon 8Gen2 Devices
 
 ## Disclaimer
 * I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed (like it did for me...).
