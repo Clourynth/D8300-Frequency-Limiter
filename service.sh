@@ -32,4 +32,7 @@ sleep 90
 lock_val "1800000" /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq
 lock_val "1600000" /sys/devices/system/cpu/cpu4/cpufreq/scaling_max_freq
 lock_val "1800000" /sys/devices/system/cpu/cpu7/cpufreq/scaling_max_freq
+lock_val "schedutil" /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+lock_val "schedutil" /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor
+lock_val "schedutil" /sys/devices/system/cpu/cpu7/cpufreq/scaling_governor
 exit 0
