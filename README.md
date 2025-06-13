@@ -10,7 +10,7 @@ execute after 90sec upon screen unlock (should be long enough for init)
 ## Why you need this?
 ### Use this you want to improve your Screen On Time by a margin.
 
-- This module lowers the CPU frequency to the target value after boot, reduces the peak power significantly when swapping apps.
+- This module lowers the CPU frequency to the target value after boot, reduces the peak power and heat significantly when swapping apps or gaming.
 - You can also use apps like FKM or EX Manager to change frequency, but this is a magisk autoscript, so it will be much convenient.
 
 ## Requirements
