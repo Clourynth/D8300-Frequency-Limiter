@@ -1,11 +1,11 @@
 #Magisk_Module 
 
-# Snapdragon 8Gen2 Frequency Limiter
-Limits Snapdragon 8 Gen 2 CPU Frequency\
+# Dimensity 8300 Frequency Limiter
+Limits Dimensity 8300 CPU Frequency\
 execute after 90sec upon screen unlock (should be long enough for init)
-- Little Cluster: 0.9024Ghz
-- Big Cluster: 1.6512Ghz
-- Prime Cluster: 1.7088Ghz
+- Little Cluster: 1.8Ghz
+- Big Cluster: 1.6Ghz
+- Prime Cluster: 1.8Ghz
 
 ## Why you need this?
 ### Use this you want to improve your Screen On Time by a margin.
