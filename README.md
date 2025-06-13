@@ -1,7 +1,7 @@
 Magisk/KSU Module
 
 # Dimensity 8300 Frequency Limiter
-Limits Dimensity 8300 CPU Frequency\
+Limits Dimensity 8300 CPU Frequency and set governor to schedutil\
 execute after 90sec upon screen unlock (should be long enough for init)
 - Little Cluster: 1.8Ghz
 - Big Cluster: 1.6Ghz
@@ -10,7 +10,6 @@ execute after 90sec upon screen unlock (should be long enough for init)
 ## Why you need this?
 ### Use this you want to improve your Screen On Time by a margin.
 
-- When swapping apps, CPU frequency will boost to a very high level to maintain the smoothness.
 - This module lowers the CPU frequency to the target value after boot, reduces the peak power significantly when swapping apps.
 - You can also use apps like FKM or EX Manager to change frequency, but this is a magisk autoscript, so it will be much convenient.
 
