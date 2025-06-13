@@ -1,6 +1,6 @@
-id=8GEN2_FREQ_LIMIT
-name=8Gen2 Frequency Limiter
-version=1.1
-versionCode=250106
-author=Tatsh
-description=Limits CPU Frequency 90sec after boot.Little:0.9024Ghz，Big:1.6512Ghz，Prime:1.7088Ghz
+id=D8300_FREQ_LIMIT
+name=D8300 Frequency Limiter
+version=1.2
+versionCode=2506013
+author=Tatsh & Clourynth
+description=Limits CPU Frequency 90sec after boot.Little:1.8Ghz，Big:1.6hz，Prime:1.8Ghz
