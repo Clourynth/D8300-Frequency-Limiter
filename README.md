@@ -1,4 +1,4 @@
-#Magisk_Module 
+Magisk/KSU Module
 
 # Dimensity 8300 Frequency Limiter
 Limits Dimensity 8300 CPU Frequency\
